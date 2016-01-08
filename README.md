@@ -1,0 +1,1 @@
+A little python jawn for when I need to make a change on all these sites/A way to potentially break things.
